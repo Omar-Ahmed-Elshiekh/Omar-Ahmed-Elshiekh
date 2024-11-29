@@ -17,7 +17,6 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/omarelshiekh" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elshiekh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/omarelshiekh01" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elshiekh-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=Php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
